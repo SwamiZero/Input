@@ -91,7 +91,7 @@ animation: animate 4s linear infinite;
         color:rgb(241, 32, 147);
         
         
-        text-shadow: rgba(255,192,203);
+        text-shadow: none;
     }
     100%{
 color: rgb(230, 23, 178);
