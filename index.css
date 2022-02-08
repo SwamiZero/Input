@@ -83,15 +83,15 @@ margin-left: 6%;
     float: left;
     height: 3px;
 transition: 0s;
-animation: animate 3s linear infinite;
+animation: animate 4s linear infinite;
 -webkit-box-reflect: below 1px linear-gradient(transparent,#fff);
 }
 @keyframes animate{
     0%{
         color:rgb(241, 32, 147);
-        filter:blur(2px);
+        filter:blur(1px);
         
-        text-shadow: none;
+        text-shadow: rgba(255,192,203);
     }
     100%{
 color: rgb(230, 23, 178);
