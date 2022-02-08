@@ -89,7 +89,7 @@ animation: animate 4s linear infinite;
 @keyframes animate{
     0%{
         color:rgb(241, 32, 147);
-        filter:blur(1px);
+        
         
         text-shadow: rgba(255,192,203);
     }
